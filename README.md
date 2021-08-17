@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianmolinab&hide_border=true&layout=compact" align="center" /></div>
 
-<h3 align="left">Contactenme en:</h3>
+<h3 align="left">Contactame:</h3>
 <p align="left">
 <a href="https://twitter.com/fabianmolinab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fabianmolinab" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fabianmolinab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabianmolinab" height="30" width="40" /></a>
