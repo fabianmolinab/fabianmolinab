@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, welcome to my home, here are part of my life as a programmer and the contribution to the community.</h1>
 <br/>
-<p align="left">I have loved programming since I was very young, it was only recently that I discovered this wonderful world. Shisui in the picture represents all the values that a person should have, for this reason, I am willing to give the best of me in each project and continue learning in the community, no one has been able to do something important alone.</p>
+<p  align="left">I have loved programming since I was very young, it was only recently that I discovered this wonderful world. Shisui in the picture represents all the values that a person should have, for this reason, I am willing to give the best of me in each project and continue learning in the community, no one has been able to do something important alone.</p>
 
 <hr/>
 <br/>
