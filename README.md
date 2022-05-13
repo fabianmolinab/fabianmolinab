@@ -5,11 +5,12 @@
 
 <hr/>
 <br/>
-<table>
-  <tr>
-    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabianmolinab&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
-  </tr>
-</table>
+<p align="center">
+<a href="https://github.com/fabianmolinab">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fabianmolinab&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fabianmolinab&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <h4>Technologies FrontEnd </h3> 
 <p>
