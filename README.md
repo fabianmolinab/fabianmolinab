@@ -1,9 +1,6 @@
-
-<h1 align="center">Hi 👋</h1>
-<br/>
+<h1 align="left">Hi 👋</h1>
 <p  align="left">I have loved programming since I was very young, it was only recently that I discovered this wonderful world. I am willing to give the best of me in each project and continue learning in the community, no one has been able to do something important alone.</p>
 
-<hr/>
 <br/>
 <p align="center">
 <a href="https://github.com/fabianmolinab">
@@ -11,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fabianmolinab&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
+<br/>
 <h4>Technologies FrontEnd </h3> 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
