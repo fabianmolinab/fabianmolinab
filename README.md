@@ -6,7 +6,8 @@
 
 <h4>
   <samp>
-    Objectives 2022 ⚡ => Learn Node.js & Express.
+        Objetives 2021 => <del> Learn React.js & Next.js</del>
+    <br> Objectives 2022 ⚡ => Learn Node.js & Express.
   </samp>
   </h4>
 <h2> <samp> Statistics </samp></h2>
