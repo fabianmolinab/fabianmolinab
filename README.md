@@ -1,14 +1,14 @@
 <h3>
-  <samp  align="center">Hi, My name is Fabian Molina geological engineer and software developer 🇨🇴. </samp>
-</h3>
-<h3>
-  <samp>
-    Specializing in programming languages such as Javascript & Typescript.
-   <br> Objectives 2022 ⚡: Learn Node.js & Express.
-   
-   <br>I love neovim 🥰
+  <samp  align="center">Hi, My name is Fabian Molina geological engineer and software developer 🇨🇴.
+  <br> Specializing in programming languages such as Javascript & Typescript.
   </samp>
-</h3>    
+</h3>
+
+<h4>
+  <samp>
+    Objectives 2022 ⚡ => Learn Node.js & Express.
+  </samp>
+  </h4>
 <h2> <samp> Statistics </samp></h2>
 <p align="center">
  <a href="https://github.com/fabianmolinab">
