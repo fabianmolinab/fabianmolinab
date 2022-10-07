@@ -1,13 +1,14 @@
 <h3>
-  <samp  align="center">Hi, My name is Fabian Molina geological engineer and software developer 🇨🇴.
+  <samp  align="center">Hi, My name is <a>Fabian Molina</a> geological engineer and software developer 🇨🇴.
   <br> Specializing in programming languages such as Javascript & Typescript.
   </samp>
 </h3>
 
 <h4>
   <samp>
-        Objetives 2021 => <del> Learn React.js & Next.js</del>
-    <br> Objectives 2022 ⚡ => Learn Node.js & Express.
+          Objetives 2020 => <del>Learn HTLM, CSS and Javascript </del>
+    <br>Objetives 2021 => <del> Learn React.js & Next.js</del>
+    <br> Objectives 2022 ⚡ => <b><i>Learn Node.js & Express.</i></b>
   </samp>
   </h4>
 <h2> <samp> Statistics </samp></h2>
