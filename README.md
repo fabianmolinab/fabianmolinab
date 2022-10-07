@@ -4,6 +4,8 @@
 <h3>
   <samp>
     Specializing in programming languages such as Javascript & Typescript.
+   <br> Objectives 2022 ⚡: Learn Node.js & Express.
+   
    <br>I love neovim 🥰
   </samp>
 </h3>    
