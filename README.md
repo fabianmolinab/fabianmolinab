@@ -6,8 +6,6 @@
 
 <h4>
   <samp>
-          Objetives 2020 => <del>Learn HTLM, CSS and Javascript </del>
-    <br>Objetives 2021 => <del> Learn React.js & Next.js</del>
     <br> Objectives 2022 ⚡ => <b><i>Learn Node.js & Express.</i></b>
   </samp>
   </h4>
@@ -64,4 +62,6 @@
 <a href="https://linkedin.com/in/fabianmolinab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabianmolinab" height="30" width="40" /></a>
 <a href="https://medium.com/@fabianmolinab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fabianmolinab" height="30" width="40" /></a>
 </p>
+
+<h3 align="center"><samp><i>I love nvim 😍</i></samp></h3>
 
