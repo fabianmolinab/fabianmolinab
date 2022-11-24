@@ -4,11 +4,6 @@
   </samp>
 </h3>
 
-<h4>
-  <samp>
-    <br> Objectives 2022 ⚡ => <b><i>Learn Node.js & Express.</i></b>
-  </samp>
-  </h4>
 <h2> <samp> Statistics </samp></h2>
 <p align="center">
  <a href="https://github.com/fabianmolinab">
