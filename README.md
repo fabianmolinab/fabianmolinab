@@ -1,5 +1,5 @@
 <h3>
-  <samp  align="center">Hi, My name is <a>Fabian Molina</a> geological engineer and software developer 🇨🇴.
+  <samp  align="center">Hi, My name is <a>Fabian Molina</a> Software Developer 🇨🇴.
   <br> Specializing in programming languages such as Javascript & Typescript.
   </samp>
 </h3>
