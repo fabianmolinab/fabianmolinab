@@ -1,10 +1,12 @@
-<h3>
-  <samp  align="center">Hi, My name is <a>Fabian Molina</a> Software Developer 🇨🇴.
-  <br> Specializing in programming languages such as Javascript & Typescript.
-  </samp>
-</h3>
+<h2>Hello welcome    <img src="https://media.giphy.com/media/4PVeey0T30PAiBYq9n/giphy.gif" width="50"></h2>
+<img src="https://tenor.com/ba0sA.gif" width="300"><img src="https://intro.rustbridge.com/img/ferris.gif" align="right"></img>
 
-<h2> <samp> Statistics </samp></h2>
+<samp align="left" > I'm <b>FabianMolinaB</b> software developer in Colombia 🇨🇴</samp>
+<samp align="left" > I'm <b>FabianMolinaB</b> software developer in Colombia 🇨🇴</samp>
+<samp align="left" > I'm <b>FabianMolinaB</b> software developer in Colombia 🇨🇴</samp>
+<samp align="left" > I'm <b>FabianMolinaB</b> software developer in Colombia 🇨🇴</samp>
+<samp align="left" > I'm <b>FabianMolinaB</b> software developer in Colombia 🇨🇴</samp>
+<h2> Statistics</h2>
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianmolinab&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
 </p>  
