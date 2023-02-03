@@ -6,11 +6,8 @@
 
 <h2> <samp> Statistics </samp></h2>
 <p align="center">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fabianmolinab&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-<br/>
-  
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=fabianmolinab&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+</p>  
 <h2 align="left"><samp>Contact me:</samp> </h2>
 <p align="left">
 <a href="https://twitter.com/fabianmolinab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fabianmolinab" height="30" width="40" /></a>
