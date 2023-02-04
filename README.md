@@ -1,13 +1,13 @@
 <h2>Hi, welcome <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /></h2>
-
+<!--
 <img src="./images/gopher.jpg" width="200" align="right">
-
+-->
 <p align="left" > I'm <b>FabianMolinaB</b> software developer in Colombia 🇨🇴
   
 - <img src="https://media.giphy.com/media/9PwWklO9tSELtIhBka/giphy.gif" width="30"> I’m currently learning <b>Go.</b>
 - 🧐 Interested in full stack and critical philosophy.
 - 👏 I’m looking to collaborate on Clan Sports.
-- 🥺 I like exploring <b>GNU/Linux an NeoVim.</b>
+- 🥺 I like exploring <b>GNU/Linux and NeoVim.</b>
 - 🎮 In my spare time play battle royales.
 - I 🤎 coffe.
 
