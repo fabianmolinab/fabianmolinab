@@ -1,5 +1,6 @@
-<h2>Hi, welcome <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /></h2>
+<h2>Hi, welcome</h2>
 <!--
+ <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
 <img src="./images/gopher.jpg" width="200" align="right">
 -->
 <p align="left" > I'm <b>FabianMolinaB</b> software developer in Colombia 🇨🇴
