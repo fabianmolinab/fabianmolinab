@@ -20,7 +20,7 @@
     const myTools = {
       ProgrammigLenguajes: {'Javascript', 'Typescript', 'Go', 'Python'},
       FrontEnd: {'React', 'Next', 'Astro', 'Redux', 'Storybook' 'Tailwind'},
-      BackEnd: {'Node', 'SQL', 'MySQL', 'Firebase', 'MongoDB'},
+      BackEnd: {'Node', 'SQL', 'MySQL', 'Firebase', 'MongoDB', 'Docker'},
       Editors: {'NeoVim'},
       OperatingSystem: {'GNU/Linux'}
     }
