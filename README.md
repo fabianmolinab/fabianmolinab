@@ -19,11 +19,11 @@
   export const AboutMe: React.FC = () => {
   
     const myTools = {
-      ProgrammigLenguajes: {'Javascript', 'Typescript', 'Go', 'Python'},
-      FrontEnd: {'React', 'Next', 'Astro', 'Redux', 'Storybook' 'Tailwind'},
-      BackEnd: {'Node', 'SQL', 'MySQL', 'Firebase', 'MongoDB', 'Docker'},
+      ProgrammigLenguajes: {'Cobol','Javascript', 'Typescript', 'Go', 'Python'},
+      FrontEnd: {'React', 'Next', 'Astro', 'Redux'},
+      BackEnd: {'Node', 'CICS', 'SQL', 'MySQL', 'Firebase', 'MongoDB', 'Docker'},
       Editors: {'NeoVim'},
-      OperatingSystem: {'GNU/Linux'}
+      OperatingSystem: {'GNU/Linux', 'OS/390'}
     }
   
   return (
