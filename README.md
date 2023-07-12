@@ -5,7 +5,7 @@
 -->
 <p align="left" > I'm <b>FabianMolinaB</b> software developer in Colombia 🇨🇴
   
-- <img src="https://media.giphy.com/media/9PwWklO9tSELtIhBka/giphy.gif" width="30"> I’m currently learning <b>Go.</b>
+-  I’m currently learning <b>Cobol.</b>
 - 🧐 Interested in full stack and critical philosophy.
 - 👏 I’m looking to collaborate on Clan Sports.
 - 🥺 I like exploring <b>GNU/Linux and NeoVim.</b>
