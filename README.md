@@ -7,7 +7,6 @@
   
 -  I’m currently learning <b>Cobol.</b>
 - 🧐 Interested in full stack and critical philosophy.
-- 👏 I’m looking to collaborate on Clan Sports.
 - 🥺 I like exploring <b>GNU/Linux and NeoVim.</b>
 - 🎮 In my spare time play battle royales.
 - I 🤎 coffe.
